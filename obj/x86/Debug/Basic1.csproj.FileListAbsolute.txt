@@ -1,0 +1,10 @@
+D:\MyDevelop\CaliburnMicroStartKits\Basic1\Basic1\obj\x86\Debug\App.g.i.cs
+D:\MyDevelop\CaliburnMicroStartKits\Basic1\Basic1\obj\x86\Debug\App.g.cs
+D:\MyDevelop\CaliburnMicroStartKits\Basic1\Basic1\obj\x86\Debug\Views\HelloView.g.i.cs
+D:\MyDevelop\CaliburnMicroStartKits\Basic1\Basic1\obj\x86\Debug\Views\HelloView.g.cs
+D:\MyDevelop\CaliburnMicroStartKits\Basic1\Basic1\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\MyDevelop\CaliburnMicroStartKits\Basic1\Basic1\obj\x86\Debug\App.xaml
+D:\MyDevelop\CaliburnMicroStartKits\Basic1\Basic1\obj\x86\Debug\Views\HelloView.xaml
+D:\MyDevelop\CaliburnMicroStartKits\Basic1\Basic1\obj\x86\Debug\App.xbf
+D:\MyDevelop\CaliburnMicroStartKits\Basic1\Basic1\obj\x86\Debug\Views\HelloView.xbf
+D:\MyDevelop\CaliburnMicroStartKits\Basic1\Basic1\obj\x86\Debug\XamlSaveStateFile.xml
